@@ -24,6 +24,9 @@
 - No Ops
 
 ### FLOW OF EXECUTION
+
+![AWS](https://github.com/aleem632/Continous-Integeration-AWS/blob/70bb7038924e0d5da531620b0bb0310c9e8fbe48/Diagram/Continous-Integeration.png)
+
 - Login to AWS Account
 ##### Code commit 
     - Create codecommit repo
